@@ -5,8 +5,8 @@
 
 
 # Change these variables to match your project
-NAME="Rob Farley"
-IMAGE=nomadrob/bind_mount_test
+NAME="Tayler Coon"
+IMAGE=tayler_made_code/bind_mount_test
 CONTAINER=bind_mount
 TAG=latest
 PORT=5000
